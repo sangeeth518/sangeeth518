@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sangeeth
-- 👀 I’m interested in web development using Golang
+- 👀 I’m interested in web development using Golang.
 - 🌱 I’m currently working on an ecommerce backend project..
 
 
