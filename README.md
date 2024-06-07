@@ -2,6 +2,8 @@
 - 👀 SelfTaught Golang Developer
 <br>
 - 🌱 I’m currently working on an ecommerce backend project..
+Looking for Golang jobs/internships
+
 
 
 <!---
