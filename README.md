@@ -1,4 +1,4 @@
-  <h1>👋 Hi, I’m @sangeeth</h1>
+  <h1>👋 Hi, I’m Sangeeth</h1>
 - 👀 SelfTaught Golang Developer
 <br>
 - 🌱 I’m currently working on an ecommerce backend project..
